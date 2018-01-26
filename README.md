@@ -1,6 +1,8 @@
 Spark 编程指南简体中文版
 =============================
 
+> 本开源书 forked from [Spark 编程指南简体中文版](https://github.com/aiyanbo/spark-programming-guide-zh-cn)，作者为 [aiyanbo](https://github.com/aiyanbo)，欢迎大家 star 原作者的 [repo](https://github.com/aiyanbo/spark-programming-guide-zh-cn)，以便获得最新更新，谢谢！
+
 * [Introduction](README.md)
 * [快速上手](quick-start/README.md)
   * [Spark Shell](quick-start/using-spark-shell.md)
